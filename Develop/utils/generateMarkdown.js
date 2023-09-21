@@ -70,6 +70,10 @@ function generateMarkdown(data) {
   
   ## Tests
   ${data.tests}
+
+  ## Questions
+  www.github.com/${data.questions}
+  If you have any questions, please email me at ${data.questions2}
 `;
 }
 

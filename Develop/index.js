@@ -41,6 +41,16 @@ const questions = [
     name: 'tests',
     message: 'How can users run tests?'
  },
+ {
+   type: 'input',
+   name: 'questions',
+   message: 'What is your GitHub username?'
+ },
+ {
+   type: 'input',
+   name: 'questions2',
+   message: 'What is your email address?'
+ },
 ];
 
 module.exports = questions;

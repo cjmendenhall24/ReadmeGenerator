@@ -1,6 +1,6 @@
-# 1
+# project
   ## Description
-  haha
+  its cool
   
   ## Table of Contents
   - [Installation](#installation)
@@ -10,10 +10,10 @@
   - [Tests](#tests)
   
   ## Installation
-  install'
+  install
   
   ## Usage
-  use
+  use it
   
   ## License
   This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
@@ -22,4 +22,8 @@
   cj
   
   ## Tests
-  npm run test
+  test
+
+  ## Questions
+  www.github.com/cjmendenhall24
+  cjmennn@
