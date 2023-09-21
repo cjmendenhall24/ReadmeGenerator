@@ -26,5 +26,5 @@
   1
 
   ## Questions
-  www.github.com/1
-  If you have any questions, please email me at 1
+  http://www.github.com/cjmendenhall24
+  If you have any questions, please email me at dd

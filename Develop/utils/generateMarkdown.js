@@ -73,7 +73,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  www.github.com/${data.questions}
+  http://www.github.com/${data.questions}
   If you have any questions, please email me at ${data.questions2}
 `;
 }
